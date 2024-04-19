@@ -1,0 +1,14 @@
+.calculator {
+  background-color: beige;
+  border: 1px solid black;
+  width: 200px;
+  border-radius: 10px;
+  justify-content: center;
+}
+
+.button {
+  width: 45px;
+  height: 45px;
+  margin: 3px;
+  border-radius: 45px;
+}
